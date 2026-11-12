@@ -14,9 +14,8 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher"
-        android:supportsRtl="false"
         android:theme="@style/Theme.LlamadaFamiliar"
-        tools:replace="android:label,android:allowBackup,android:supportsRtl">
+        tools:replace="android:label,android:allowBackup">
 
         <activity
             android:name=".MainActivity"
